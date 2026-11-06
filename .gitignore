@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+.pm2/
+test-results/
+playwright-report/
+*.log
+*.zip
+*.tar.gz
+.DS_Store
